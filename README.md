@@ -1,7 +1,7 @@
 # Langauge-Translator-using-Google-API
 A program to translate a language into another using Google API
 
-##**Steps :
+## Steps :
 
 1. After running the program say "Translate"
 
